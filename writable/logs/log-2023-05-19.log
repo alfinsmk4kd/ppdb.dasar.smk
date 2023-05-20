@@ -1,0 +1,1781 @@
+INFO - 2023-05-19 00:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:11:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:11:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:11:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:11:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:11:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:11:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:11:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:11:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:11:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:11:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:11:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:11:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:12:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:12:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:19:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:19:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:19:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:19:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:19:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:19:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:19:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:19:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 00:19:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:19:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 00:19:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 00:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 00:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 02:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 02:05:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 02:05:25 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getRowtArray()
+in APPPATH\Models\ModelPendaftaran.php on line 22.
+ 1 APPPATH\Controllers\Siswa.php(19): App\Models\ModelPendaftaran->getBiodatasiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 02:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 02:08:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 02:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 02:09:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 02:09:41 --> Undefined array key "no_pendaftar"
+in APPPATH\Views\siswa\v_dashboard.php on line 37.
+ 1 APPPATH\Views\siswa\v_dashboard.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "no_pendaftar"', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 37)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 02:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 02:10:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 02:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 02:13:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 02:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 02:22:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+ERROR - 2023-05-19 02:22:19 --> mysqli_sql_exception: Unknown column 'tb_siswa.id_jalur' in 'on clause' in C:\xampp\htdocs\ppdb_smk_ci4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\ppdb_smk_ci4\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ppdb_smk_ci4\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ppdb_smk_ci4\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ppdb_smk_ci4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ppdb_smk_ci4\app\Models\ModelPendaftaran.php(22): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ppdb_smk_ci4\app\Controllers\Siswa.php(19): App\Models\ModelPendaftaran->getBiodatasiswa()
+#6 C:\xampp\htdocs\ppdb_smk_ci4\system\CodeIgniter.php(934): App\Controllers\Siswa->index()
+#7 C:\xampp\htdocs\ppdb_smk_ci4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+#8 C:\xampp\htdocs\ppdb_smk_ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ppdb_smk_ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ppdb_smk_ci4\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-19 02:22:19 --> Unknown column 'tb_siswa.id_jalur' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tb_siswa`
+JOIN `tb_jalur` ON `tb_jalur`.`id_jalur` =`tb_siswa`.`id_jalur`
+WHERE `id_siswa` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tb_siswa`
+JOIN `tb_jalur` ON `tb_jalur`.`id_jalur` =`tb_siswa`.`id_jalur`
+WHERE `id_siswa` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tb_siswa`
+JOIN `tb_jalur` ON `tb_jalur`.`id_jalur` =`tb_siswa`.`id_jalur`
+WHERE `id_siswa` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tb_siswa`
+JOIN `tb_jalur` ON `tb_jalur`.`id_jalur` =`tb_siswa`.`id_jalur`
+WHERE `id_siswa` = :id_siswa:', [...], false)
+ 5 APPPATH\Models\ModelPendaftaran.php(22): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Siswa.php(19): App\Models\ModelPendaftaran->getBiodatasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 02:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 02:24:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 04:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 04:10:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 04:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 04:10:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 04:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 04:11:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 04:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 04:11:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 04:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 04:11:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 04:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 04:11:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 04:11:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 04:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 05:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 05:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 05:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 07:29:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 07:29:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 07:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 11:44:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 11:44:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 11:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:00:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:00:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:00:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:00:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:00:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:00:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:00:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:00:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:00:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 15:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:00:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:00:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:00:49 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:01:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:04:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:07:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:07:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:07:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:07:56 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:08:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:08:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:11:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:11:10 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:11:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:11:11 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:11:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:11:11 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:11:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:11:12 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:11:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:11:12 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:14:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:14:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:14:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:14:39 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:18:52 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:18:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:18:53 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:18:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:18:54 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:18:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:18:54 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:18:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:18:54 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:18:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:18:55 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:18:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:18:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:18:56 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:19:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:19:08 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:19:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:19:33 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 37.
+ 1 APPPATH\Views\siswa\v_dashboard.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 37)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:20:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:20:03 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 46.
+ 1 APPPATH\Views\siswa\v_dashboard.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 46)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(21): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:21:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:21:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:22:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:32:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:32:25 --> Class "App\Models\ModelPJalurMasuk" not found
+in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:32:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:32:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:34:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:34:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:34:06 --> Call to undefined function form_open()
+in APPPATH\Views\siswa\v_dashboard.php on line 422.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 4 APPPATH\Controllers\Siswa.php(24): view('siswa/v_dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:34:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:34:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:38:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:38:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:39:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:39:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:39:52 --> Undefined variable $variable
+in APPPATH\Views\siswa\v_dashboard.php on line 440.
+ 1 APPPATH\Views\siswa\v_dashboard.php(440): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 440)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(25): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:40:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:40:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:40:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:40:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:41:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:41:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:41:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:41:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:47:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:47:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:47:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:47:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:48:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:48:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:48:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:48:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:49:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:49:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:49:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:49:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:49:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:49:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:50:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:50:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 15:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:50:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:50:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:51:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:51:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:51:10 --> Trying to access array offset on value of type null
+in APPPATH\Views\siswa\v_dashboard.php on line 32.
+ 1 APPPATH\Views\siswa\v_dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ppdb_smk_ci4\\app\\Views\\siswa\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siswa/v_dashboard', [], true)
+ 5 APPPATH\Controllers\Siswa.php(25): view('siswa/v_dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:51:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:51:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:53:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:53:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:54:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:54:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:54:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:54:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:56:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:56:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:56:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:56:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:56:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:56:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:56:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:56:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:57:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:57:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:57:20 --> Too few arguments to function App\Controllers\Siswa::updateSiswa(), 0 passed in C:\xampp\htdocs\ppdb_smk_ci4\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siswa.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->updateSiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:57:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:57:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 15:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 15:57:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 15:57:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 15:57:52 --> Too few arguments to function App\Controllers\Siswa::updateSiswa(), 0 passed in C:\xampp\htdocs\ppdb_smk_ci4\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siswa.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->updateSiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:04:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:04:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 16:04:25 --> Too few arguments to function App\Controllers\Siswa::updateSiswa(), 0 passed in C:\xampp\htdocs\ppdb_smk_ci4\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siswa.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->updateSiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:04:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:04:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:04:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:04:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:04:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:04:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 16:04:57 --> Too few arguments to function App\Controllers\Siswa::updateSiswa(), 0 passed in C:\xampp\htdocs\ppdb_smk_ci4\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siswa.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->updateSiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:07:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:07:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 16:07:01 --> Undefined constant "App\Controllers\redirect"
+in APPPATH\Controllers\Siswa.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->updateSiswa('6')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:07:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:07:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 16:07:47 --> Undefined constant "App\Controllers\redirect"
+in APPPATH\Controllers\Siswa.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->updateSiswa('6')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:08:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:08:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+CRITICAL - 2023-05-19 16:08:41 --> Undefined constant "App\Controllers\redirect"
+in APPPATH\Controllers\Siswa.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->updateSiswa('6')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:09:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:09:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:09:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:09:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:10:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:10:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:11:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:11:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelPendaftaran is deprecated in APPPATH\Controllers\Siswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Siswa::$ModelJalurMasuk is deprecated in APPPATH\Controllers\Siswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:19:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:19:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:19:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 16:19:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:19:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 16:19:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 16:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 23:54:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:54:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 23:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 23:56:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:56:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 23:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 23:56:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:56:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 23:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 23:58:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelBaner is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:58:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelAdmin is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 23:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 23:58:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:58:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:58:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 23:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-19 23:58:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:58:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelTa is deprecated in APPPATH\Controllers\Auth.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+WARNING - 2023-05-19 23:58:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelPendaftaran is deprecated in APPPATH\Controllers\Auth.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ppdb_smk_ci4\\public\\index.php')
+INFO - 2023-05-19 23:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
